@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage Images -->
+  <url>
+    <loc>https://drcapoteoficial.com/</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Cover Image -->
+    <image:image>
+      <image:loc>https://drcapoteoficial.com/assets/cover.jpg</image:loc>
+      <image:title>Dr Capote - Cuban Reggaeton Artist</image:title>
+      <image:caption>Official cover photo of Dr Capote, the first gay Cuban reggaeton artist</image:caption>
+    </image:image>
+    
+    <!-- Logo -->
+    <image:image>
+      <image:loc>https://drcapoteoficial.com/assets/logo.png</image:loc>
+      <image:title>Dr Capote Logo</image:title>
+    </image:image>
+    
+    <!-- Hero Section Image -->
+    <image:image>
+      <image:loc>https://drcapoteoficial.com/assets/herosection%20image.jpg</image:loc>
+      <image:title>Dr Capote - Hero Section</image:title>
+      <image:caption>Dr Capote - The Gay King of Reggaeton</image:caption>
+    </image:image>
+  </url>
+  
+</urlset>
